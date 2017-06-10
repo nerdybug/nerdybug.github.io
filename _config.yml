@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: nerdybug@gmail.com
 copyright_name: nerdybug
 description: > # this means to ignore newlines until "baseurl:"
-  "it is never too late to be what you might have been" -- George Eliot
+  "It is never too late to be what you might have been" -- George Eliot
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: nerdybug
 github_username:  nerdybug
