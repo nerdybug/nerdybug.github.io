@@ -22,6 +22,6 @@ The more I thought about it, the more I realized that my mind was aching to be c
 
 My life now is spent less at work (thank you, part-time hours) and more on learning to code. None of it would be possible if that one person hadn't entered my life and stuck around. Without the heart-felt encouragement and literal support, I wouldn't be right here.
 
-It's like a light switched on in a dark corner of my mind and now that I can clearly see that corner, I can't ignore it. Maybe one day, wrinkly and hunched from years of looking down at a cell phone, I would have realized "I should've learned to code" but I've always thought that some things happen for a reason and I'm grateful beyond words to be here.
+A light switched on in a dark corner of my mind and now that I can clearly see that corner, I can't ignore it. 
 
 Let the code-ventures begin!
