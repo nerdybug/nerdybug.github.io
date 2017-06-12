@@ -20,8 +20,6 @@ I was nervous and intimidated at first, self-doubt ready to strike at the first 
 
 The more I thought about it, the more I realized that my mind was aching to be challenged. The work I was doing was not technically hard (emotionally hard, yes) but I didn't have to figure tough problems out. That lack of challenge responded to the new challenges faced in codecademy lessons that didn't pass on the first go. I got so frustrated with how I felt that I knew it was time to change something, time to put up or shut up, time to really buckle down and get my learn on.
 
-My life now is spent less at work (thank you, part-time hours) and more on learning to code. None of it would be possible if that one person hadn't entered my life and stuck around. Without the heart-felt encouragement and literal support, I wouldn't be right here.
+My life now is spent less at work (thank you, part-time hours) and more on learning to code. None of it would be possible if that one person hadn't entered my life and stuck around. Without the heart-felt encouragement and literal support, I wouldn't be right here. 
 
-A light switched on in a dark corner of my mind and now that I can clearly see that corner, I can't ignore it. 
-
-Let the code-ventures begin!
+A light switched on in a dark corner of my mind and now that I can clearly see that corner, I can't ignore it. Let the code-ventures begin!
