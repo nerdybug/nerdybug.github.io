@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "The Light Is On, Folks"
-date:   2017-06-12 03:07:15 +0000
+date:   2017-06-11 23:07:16 -0400
 ---
 
-<img src="http://i.imgur.com/g7QSvSV.jpg">
+<img align="middle" src="http://i.imgur.com/g7QSvSV.jpg">
 
 Code is something I had never thought about before a year and a half ago. Not only had I never thought about it but I definitely never thought I'd be able to read and write it.
 
