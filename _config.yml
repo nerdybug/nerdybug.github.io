@@ -1,15 +1,15 @@
 # Site settings
 title: Code-ventures with Meredith
 header-img: img/home-bg.png
-email: nerdybug@gmail.com
-copyright_name: nerdybug
+email: mardebugger@gmail.com
+copyright_name: Meredith Reece
 description: > # this means to ignore newlines until "baseurl:"
   "It is never too late to be what you might have been" -- George Eliot
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: nerdybug
-github_username:  nerdybug
+twitter_username: mar_debug
+github_username: nerdybug
 learn_profile: nerdybug
-email_username: nerdybug@gmail.com
+email_username: mardebugger@gmail.com
 
 # Build settings
 markdown: kramdown
