@@ -1,12 +1,15 @@
 ---
 layout: post
-title:      "Mistakes made, lessons learned"
-date:       2017-11-23 03:59:46 +0000
+title:      "Mistakes made, lessons learned - my QuestCom CLI"
+date:       2017-11-22 22:59:47 -0500
 permalink:  mistakes_made_lessons_learned
 ---
 
+For my CLI portfolio project I chose to make a program that would give the user the top-rated comment on a quest from the game World of Warcraft as shown on the site wowhead.com. My idea was simple, take in a quest name, return the body of the highest-rated comment from wowhead with options to show a list for all of that quest's comments, more info about any one comment, do a new search or exit the program. 
 
-As we are all human, we all make mistakes. If we learn something from the mistake, is it not then a knowledge gain? This cli portfolio project gave me many 'knowledge gains' along the way and I felt crippled by the perceived weight of the whole thing: my first portfolio project ever at a point where I don't yet feel confident in what I know about writing code. I was scared, to be honest. Maybe that fear resulted in forgetting part of the assignment, not reminding myself along the way of what all the requirements were, who knows but I know now that the fear is silly. I'm still learning and of course there will be mistakes and that's ok. Get up and keep trying! So, since I neglected to make every commit message clear, accurate and relevant, I would like to use this space to elaborate on those messages and talk about my experience with this project. 
+Simple, right? Well it ended up being a bit more complicated than I thought to wrangle a site's javascript response into nice-looking text. Once I was near done with the program, I went back to the project's instructions and my heart sank. I completely forgot about part of the assignment, my commit messages were crap.
+
+As we are all human, we all make mistakes. If we learn something from the mistake, is it not then a knowledge gain? This cli portfolio project gave me many 'knowledge gains' along the way and I felt crippled by the perceived weight of the whole thing: my first portfolio project ever at a point where I don't yet feel confident in what I know about writing code. I was scared, to be honest. Maybe that fear resulted my oversight, not reminding myself along the way of what all the requirements were, who knows but I know now that the fear is silly. I'm still learning and of course there will be mistakes and that's ok. Get up and keep trying! So, since I neglected to make every commit message clear, accurate and relevant, I would like to use this space to elaborate on those messages and talk about my experience with this project. 
 
 [(link to commits: beginning at oldest)](https://github.com/nerdybug/quest_com/commits/master?after=8033eb9ec26ed9ed8950aa7b9afa2c63179d55c5+104)
 
