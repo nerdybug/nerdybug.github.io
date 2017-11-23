@@ -15,6 +15,7 @@ As we are all human, we all make mistakes. If we learn something from the mistak
 
 <font size="2">"construction" Aug 6 - initialize program in bin file, require program files in quest_com.rb, start class files</font>
 
+
 <font size="2">"flesh out CLI and start Scraper" Aug 6 - define #call, #greet, #get_quest_name and #scrape_for_id in CLI; define #initialize in Scraper</font>
 
 <font size="2">"add methods to prepare and search with user input" Aug 7 - define #prepare_input_for_search, #search_for_result_body, #parse_quest_id and add to #initialize in Scraper</font>
