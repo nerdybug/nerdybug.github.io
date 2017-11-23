@@ -13,8 +13,7 @@ As we are all human, we all make mistakes. If we learn something from the mistak
 
 [(link to commits: beginning at oldest)](https://github.com/nerdybug/quest_com/commits/master?after=8033eb9ec26ed9ed8950aa7b9afa2c63179d55c5+104)
 
-<font size="2">"construction" Aug 6 - initialize program in bin file, require program files in quest_com.rb, start class files</font>
-
+<font size="2">"construction" Aug 6 - initialize program in bin file, require program files in quest_com.rb, start class files</font><br>
 
 <font size="2">"flesh out CLI and start Scraper" Aug 6 - define #call, #greet, #get_quest_name and #scrape_for_id in CLI; define #initialize in Scraper</font>
 
