@@ -1,10 +1,11 @@
 ---
 layout: post
-title:      "Tests and Tests and Tests - the bookshelf experience"
-date:       2019-05-24 02:09:51 +0000
+title:      "Tests and Tests and Tests"
+date:       2019-05-23 22:09:52 -0400
 permalink:  tests_and_tests_and_tests_-_the_bookshelf_experience
 ---
 
+*the bookshelf experience*
 
 For this project, writing tests was not required. I decided to require it myself. Testing is my favorite aspect of this whole web developer thing and I wanted to give myself a challenge in writing tests for this simple book inventory site.
 
